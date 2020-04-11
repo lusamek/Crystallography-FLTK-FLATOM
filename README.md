@@ -1,6 +1,7 @@
 # flatom
 
 FLTK Free Software, Material Siences.
+Keywords: atomic structure of metals, material sciences, elements.
 
 Installation
 ============
