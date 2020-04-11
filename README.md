@@ -7,6 +7,10 @@ Installation
 
 apt-get install libfltk-dev
 
+- Unzip
+- chmod +x flatom
+- ./flatom 
+
 
 Screenshot
 ==========
